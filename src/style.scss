@@ -1,0 +1,15 @@
+li{
+    list-style: none;
+}
+
+.app{
+    text-align: center;
+    &__title{
+        font-size: 32px;
+    }
+    &__input{
+        padding: 8px 50px 8px 0;
+        font-size: 15px;
+        
+    }
+}

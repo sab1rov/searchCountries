@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+}
+
+.app {
+  text-align: center;
+}
+
+.app__title {
+  font-size: 32px;
+}
+
+.app__input {
+  padding: 8px 50px 8px 0;
+  font-size: 15px;
+}
+/*# sourceMappingURL=style.css.map */
